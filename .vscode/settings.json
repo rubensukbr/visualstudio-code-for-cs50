@@ -152,6 +152,11 @@
     "workbench.tips.enabled": false,
     "workbench.welcomePage.walkthroughs.openOnInstall": false,
     "workbench.colorTheme": "GitHub Dark",
-    "workbench.editor.empty.hint": "hidden"
+    "workbench.editor.empty.hint": "hidden",
+    "python.testing.pytestArgs": [
+      "primeiro_programa"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
 

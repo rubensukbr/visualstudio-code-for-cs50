@@ -151,6 +151,7 @@
     "workbench.statusBar.visible": false,
     "workbench.tips.enabled": false,
     "workbench.welcomePage.walkthroughs.openOnInstall": false,
-    "workbench.colorTheme": "GitHub Dark"
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.editor.empty.hint": "hidden"
 }
 
